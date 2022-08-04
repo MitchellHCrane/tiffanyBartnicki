@@ -10,7 +10,7 @@ function Footer() {
           <p className="footerP">
             Phone: <a href="tel:8014406311">(801)-440-6311</a>
           </p>
-          <p className="footerP">Efax: (801)-951-5213</p>
+          <p className="footerP">E-fax: (801)-951-5213</p>
           <p className="footerP">
             Email:{" "}
             <a href="mailto:tiffany@firstclasshomemortgage.com">
